@@ -28,3 +28,5 @@ Procedure :Creating measures ->sheets ->DashBoard <br />
 ouput : dashboard - .pbix file <br />
 
 
+Summary :  <br />
+Tools and Libraries Used are : Brightdata(Web Scraping), Pandas(Python Lib for Data Transformation), Power BI(Data Visualization and Analysis)
